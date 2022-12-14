@@ -214,7 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 664.5
+    "width": 383.5
   },
   "right": {
     "id": "83ffcdec99296da2",
@@ -293,7 +293,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b08f344504e8eb65",
+  "active": "25c2704175a91171",
   "lastOpenFiles": [
 <<<<<<< HEAD
     "2/15.md",

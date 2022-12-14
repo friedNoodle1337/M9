@@ -1,52 +1,35 @@
 {
   "main": {
-    "id": "db8366723f22e043",
+    "id": "e10b4486bce1ea1d",
     "type": "split",
     "children": [
       {
-        "id": "ea23fb0047cc8aae",
+        "id": "20e03791bd293381",
         "type": "tabs",
         "children": [
           {
-            "id": "70e384943a659977",
+            "id": "b2def31a4a207445",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11/8) Разложите функцию ... в ряд по степеням.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a387d28de5abb002",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2/1.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1e642bf18f8a4431",
+    "id": "7ed88d5f4571cdaf",
     "type": "split",
     "children": [
       {
-        "id": "638ff24327800aa2",
+        "id": "c3dd30bc91839bea",
         "type": "tabs",
         "children": [
           {
-            "id": "25c2704175a91171",
+            "id": "5c1e54c429b2c0ee",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +39,7 @@
             }
           },
           {
-            "id": "fdfa2d2fad80d362",
+            "id": "ffe43c95104405de",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +54,7 @@
             }
           },
           {
-            "id": "f5365a6cc3b76406",
+            "id": "90f227fba54ae808",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -82,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 300
   },
   "right": {
-    "id": "83ffcdec99296da2",
+    "id": "16f752aafe85135c",
     "type": "split",
     "children": [
       {
-        "id": "50a8dc076855b125",
+        "id": "997f916a1130f0fa",
         "type": "tabs",
         "children": [
           {
-            "id": "7297fd7493525483",
+            "id": "3a77d63c4c4e9f9e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +92,18 @@
             }
           },
           {
-            "id": "549c961d3c407c08",
+            "id": "d38efa74d53210dc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3025150f570108b4",
+            "id": "92a8771c9aaf9fd0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,13 +114,11 @@
             }
           },
           {
-            "id": "5d710d2208d21950",
+            "id": "549261674d3e06d5",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2/1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,17 +128,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a387d28de5abb002",
-  "lastOpenFiles": [
-    "2/8.md",
-    "2/7.md",
-    "2/6.md",
-    "2/4.md",
-    "2/3.md",
-    "2/2.md",
-    "2/1.md",
-    "2/15.md",
-    "2/14.md",
-    "2/13.md"
-  ]
+  "active": "b2def31a4a207445",
+  "lastOpenFiles": []
 }
